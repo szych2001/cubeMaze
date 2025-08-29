@@ -34,4 +34,27 @@ The game combines **procedural generation** with immersive VR mechanics, while a
 - End-to-end **XR development workflow**, from prototyping to real-device testing.  
 
 ## Screenshots  
-*(to be added)*  
+## Screenshots
+<table>
+  <tr>
+    <td><img src="screenshots/screen_1.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_2.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_3.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_4.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_5.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_6.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_7.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_8.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_9.jpg" width="100%"/></td>
+    <td></td>
+  </tr>
+</table>
+
