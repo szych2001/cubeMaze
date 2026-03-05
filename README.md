@@ -1,6 +1,12 @@
 # 🎲 CubeMaze  
 VR puzzle game for Oculus Quest where players guide a ball through procedurally generated 3D mazes inside a rotating cube. Built in Unity with Meta XR SDK, featuring traps, keys, multiplayer challenges, and an optional passthrough mode.  
 
+# Made By
+Filip Tryhuk, Wojciech Zamarski, and Sebastian Zych.
+
+As part of our Master of Science in Computer Science studies at Cracow University of Technology, specializing in Intelligent Systems & Augmented Reality, we worked together on several academic projects.
+These projects were developed during courses such as Game Programming, Virtual and Augmented Reality Design, and Augmented Reality in Engineering Applications.
+
 ## Overview  
 **CubeMaze** is a **VR puzzle game** developed for **Oculus Quest (1, 2, and 3)**.  
 The player must guide a ball through a maze hidden inside a rotating cube, avoiding traps and collecting keys to unlock passages.  
